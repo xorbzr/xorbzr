@@ -1,16 +1,21 @@
-## Hi there 👋
+### About Me:
+- 🎓 Cyber Security student
+- 💻 Lover of programming and technology
+- 🛠️ Always seeking new challenges and projects
 
-<!--
-**xorbzr/xorbzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education:
+- Pursuing a degree in Cyber Operations at the University of Arizona
 
-Here are some ideas to get you started:
+### Interests:
+- Network security
+- Ethical hacking
+- Cryptography
+- Incident response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- Python, Java, C++
+- Network protocols
+- Penetration testing
+- Security tools (Wireshark, Metasploit, etc.)
+
+Let's collaborate and make the digital world a safer place! 🌐✨
